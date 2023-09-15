@@ -3,7 +3,7 @@ MLflow is a versatile, expandable, open-source platform for managing workflows a
 
 ### Some of the important features of MLflow involve:
 1. Model Tracking:
-The MLflow Tracking component is an API and UI for logging parameters, code versions, metrics, and output files when running your machine learning code and for later visualizing the results. For many popular ML libraries,Model tracking can be easily implemented in the ML code by simply adding mlflow.autolog() function call. If we are using one of the supported libraries, this will automatically log the parameters, metrics, and artifacts of the run. 
+   The MLflow Tracking component is an API and UI for logging parameters, code versions, metrics, and output files when running your machine learning code and for later visualizing the results. For many popular ML libraries,Model tracking can be easily implemented in the ML code by simply adding mlflow.autolog() function call. If we are using one of the supported libraries, this will automatically log the parameters, metrics, and artifacts of the run. 
 MLflow Tracking is organized around the concept of runs, which are executions of some piece of data science code. In each run, the information about the model such as code version, start and end time, source, parameters, metrics, artifacts, etc. MLflow Tracking is organized around the concept of runs, which are executions of some piece of data science code.
 
               
