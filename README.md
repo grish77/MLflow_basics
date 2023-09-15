@@ -1,7 +1,7 @@
 # MLOps
 MLOps, an acronym for "Machine Learning Operations," is a technique for managing and deploying machine learning (ML) models that integrates ML and AI techniques with software engineering and DevOps (Development Operations) principles. MLOps is based on DevOps, a current method for creating, deploying, and managing enterprise applications more effectively. Software development teams (the Devs) and IT operations teams (the Ops) came together to form DevOps in order to break down data silos and improve collaboration. All these aims of DevOps are similar to MLOps, but MLOps adds Data Scientists and ML Engineers in the team to organize datasets and perform analyses on them using AI algorithms. These individuals also run the datasets through the models using automated, structured procedures.
 The entire lifespan of ML models, including their development, training, deployment, and monitoring, is the focus of MLOps. To effectively achieve machine learning model lifecycle management, MLOps fosters the communication and collaboration between operations professionals and data scientists.
-## Basic Architeture of MLFlow
+## Basic Architeture of MLOps
 ![mlflow_arch](https://github.com/grish77/MLflow_basics/assets/83338844/7a1be006-5c35-467f-b229-3160af1e9de8)
 The major objective of MLOps is to eliminate the communication gap between operations teams, who deploy and manage ML models in production environments, and data scientists, who create and train ML models. Organizations may guarantee that ML models are scalable, stable, and constantly developing by implementing MLOps principles.
 
